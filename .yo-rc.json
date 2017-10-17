@@ -1,0 +1,8 @@
+{
+  "generator-simple-droid-plate": {
+    "promptValues": {
+      "app_name": "AndroidMe",
+      "app_package": "com.toelie.playground.androidme"
+    }
+  }
+}
